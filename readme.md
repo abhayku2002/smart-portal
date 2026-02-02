@@ -1,0 +1,45 @@
+# Smart Service Request Portal
+
+A microservices-based application for enterprise service management.
+
+## Tech Stack
+- **Frontend**: Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, FastAPI (Python)
+- **Infrastructure**: Docker, Redis, PostgreSQL
+
+## Prerequisites
+- **Docker** & **Docker Compose** (Recommended)
+- OR **Node.js** (v18+) and **Python** (v3.9+)
+
+## Quick Start (Docker)
+1. Ensure Docker Desktop is running.
+2. Run the application:
+   ```bash
+   docker-compose up --build
+   ```
+3. Access the portal at [http://localhost:3001](http://localhost:3001).
+
+## Manual Setup 
+```bash
+cd services/intelligence-service
+pip install -r requirements.txt
+uvicorn main:app --port 3003 --reload
+```
+*Runs on port 3003*
+
+### 2. Request Service (Node.js)
+```bash
+cd services/request-service
+npm install
+# Set environment variables if needed, or defaults will be used
+node server.js
+```
+*Runs on port 3002*
+
+### 3. Web Portal (Next.js)
+```bash
+cd apps/web-portal
+npm install
+npm run dev
+```
+*Runs on port 3001*
