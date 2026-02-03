@@ -19,6 +19,9 @@ A microservices-based application for enterprise service management.
    ```
 3. Access the portal at [http://localhost:3001](http://localhost:3001).
 
+<img width="887" height="531" alt="ntt3" src="https://github.com/user-attachments/assets/582ba9b4-1c18-4858-b104-a38ee9e7f7fd" />
+
+
 ## Manual Setup 
 ```bash
 cd services/intelligence-service
