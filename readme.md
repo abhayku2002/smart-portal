@@ -18,7 +18,8 @@ A microservices-based application for enterprise service management.
    docker-compose up --build
    ```
 3. Access the portal at [http://localhost:3001](http://localhost:3001).
-
+<img width="769" height="402" alt="ntt1" src="https://github.com/user-attachments/assets/a7036d47-5968-4489-b7c5-fad389386de1" />
+<img width="1023" height="466" alt="ntt2" src="https://github.com/user-attachments/assets/6cfdd58a-9fae-4e79-81a9-322dfa764889" />
 <img width="887" height="531" alt="ntt3" src="https://github.com/user-attachments/assets/582ba9b4-1c18-4858-b104-a38ee9e7f7fd" />
 
 
