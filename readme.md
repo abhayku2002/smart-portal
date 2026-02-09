@@ -22,6 +22,8 @@ A microservices-based application for enterprise service management.
 <img width="1023" height="466" alt="ntt2" src="https://github.com/user-attachments/assets/6cfdd58a-9fae-4e79-81a9-322dfa764889" />
 <img width="887" height="531" alt="ntt3" src="https://github.com/user-attachments/assets/582ba9b4-1c18-4858-b104-a38ee9e7f7fd" />
 
+https://github.com/user-attachments/assets/c0f25b9e-d8bd-4220-9857-eacde08e9b24
+
 
 ## Manual Setup 
 ```bash
